@@ -1,0 +1,383 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "23.7235605",
+                    "37.9715365"
+                ],
+                "properties": {
+                    "id": "1",
+                    "title": "Acropole d'Ath\u00e8nes",
+                    "city": "Ath\u00e8nes",
+                    "country": "Gr\u00e8ce",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/acropole_d'Ath\u00e8nes",
+                    "coordonnees": "37.9715365,23.7235605"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.59033",
+                    "37.1760826"
+                ],
+                "properties": {
+                    "id": "2",
+                    "title": "Alhambra de Grenade",
+                    "city": "Grenade",
+                    "country": "Espagne",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Alhambra_(Grenade)",
+                    "coordonnees": "37.1760826,-3.59033"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.6872197",
+                    "48.4310239"
+                ],
+                "properties": {
+                    "id": "3",
+                    "title": "Angkor",
+                    "city": "Angkor",
+                    "country": "Cambodge",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Angkor",
+                    "coordonnees": "48.4310239,1.6872197"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-88.5699713",
+                    "20.6842899"
+                ],
+                "properties": {
+                    "id": "4",
+                    "title": "Chich\u00e9n Itz\u00e1",
+                    "city": "Chich\u00e9n Itz\u00e1",
+                    "country": "Mexique",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Chich\u00e9n_Itz\u00e1",
+                    "coordonnees": "20.6842899,-88.5699713"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-43.2126759",
+                    "-22.951911"
+                ],
+                "properties": {
+                    "id": "5",
+                    "title": "Christ R\u00e9dempteur",
+                    "city": "Rio de Janeiro",
+                    "country": "Br\u00e9sil",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Christ_R\u00e9dempteur",
+                    "coordonnees": "-22.951911,-43.2126759"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.4900422",
+                    "41.8902142"
+                ],
+                "properties": {
+                    "id": "6",
+                    "title": "Colis\u00e9e",
+                    "city": "Rome",
+                    "country": "Italie",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Colis\u00e9e",
+                    "coordonnees": "41.8902142,12.4900422"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-109.3325796",
+                    "-27.1437367"
+                ],
+                "properties": {
+                    "id": "7",
+                    "title": "Mao\u00efs",
+                    "city": "\u00cele de P\u00e2ques",
+                    "country": "Chili",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Mao\u00ef",
+                    "coordonnees": "-27.1437367,-109.3325796"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.2922926",
+                    "48.8583736"
+                ],
+                "properties": {
+                    "id": "8",
+                    "title": "Tour Eiffel",
+                    "city": "Paris",
+                    "country": "France",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Tour_Eiffel",
+                    "coordonnees": "48.8583736,2.2922926"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "116.5681862",
+                    "40.4319118"
+                ],
+                "properties": {
+                    "id": "9",
+                    "title": "Grande Muraille",
+                    "city": "Chine",
+                    "country": "Chine",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Grande_Muraille",
+                    "coordonnees": "40.4319118,116.5681862"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.9788895",
+                    "41.0078496"
+                ],
+                "properties": {
+                    "id": "10",
+                    "title": "Sainte-Sophie",
+                    "city": "Istanbul",
+                    "country": "Turquie",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Sainte-Sophie_(Constantinople)",
+                    "coordonnees": "41.0078496,28.9788895"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "135.7828576",
+                    "34.9948605"
+                ],
+                "properties": {
+                    "id": "11",
+                    "title": "Kiyomizu-dera",
+                    "city": "Kyoto",
+                    "country": "Russie",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Kiyomizu-dera",
+                    "coordonnees": "34.9948605,135.7828576"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.6153107",
+                    "55.7520263"
+                ],
+                "properties": {
+                    "id": "12",
+                    "title": "Kremlin",
+                    "city": "Moscou",
+                    "country": "Russie",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Kremlin_de_Moscou",
+                    "coordonnees": "55.7520263,37.6153107"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.5471516",
+                    "-13.163136"
+                ],
+                "properties": {
+                    "id": "13",
+                    "title": "Machu Picchu",
+                    "city": "P\u00e9rou",
+                    "country": "P\u00e9rou",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Machu_Picchu",
+                    "coordonnees": "-13.163136,-72.5471516"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.7476117",
+                    "47.5575776"
+                ],
+                "properties": {
+                    "id": "14",
+                    "title": "Ch\u00e2teau de Neuschwanstein",
+                    "city": "Bavi\u00e8re",
+                    "country": "Allemagne",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Ch\u00e2teau_de_Neuschwanstein",
+                    "coordonnees": "47.5575776,10.7476117"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.4421735",
+                    "30.328459"
+                ],
+                "properties": {
+                    "id": "15",
+                    "title": "P\u00e9tra",
+                    "city": "P\u00e9tra",
+                    "country": "Jordanie",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/P\u00e9tra",
+                    "coordonnees": "30.328459,35.4421735"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.0466891",
+                    "40.6892534"
+                ],
+                "properties": {
+                    "id": "16",
+                    "title": "Statue de la Libert\u00e9",
+                    "city": "New-York",
+                    "country": "\u00c9tats-Unis",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Statue_de_la_Libert\u00e9",
+                    "coordonnees": "40.6892534,-74.0466891"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.8284037",
+                    "51.1788853"
+                ],
+                "properties": {
+                    "id": "17",
+                    "title": "Stonehenge",
+                    "city": "Salisbury",
+                    "country": "Royaume-Uni",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Stonehenge",
+                    "coordonnees": "51.1788853,-1.8284037"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "151.213108",
+                    "-33.8567799"
+                ],
+                "properties": {
+                    "id": "18",
+                    "title": "Op\u00e9ra de Sydney",
+                    "city": "Sydney",
+                    "country": "Australie",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Op\u00e9ra_de_Sydney",
+                    "coordonnees": "-33.8567799,151.213108"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "78.0399665",
+                    "27.1750199"
+                ],
+                "properties": {
+                    "id": "19",
+                    "title": "Taj Mahal",
+                    "city": "Agra",
+                    "country": "Inde",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Taj_Mahal",
+                    "coordonnees": "27.1750199,78.0399665"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.025489",
+                    "16.7714239"
+                ],
+                "properties": {
+                    "id": "20",
+                    "title": "Tombouctou",
+                    "city": "Tombouctou",
+                    "country": "Mali",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Tombouctou",
+                    "coordonnees": "16.7714239,-3.025489"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.1320132",
+                    "29.9792391"
+                ],
+                "properties": {
+                    "id": "21",
+                    "title": "Pyramide de Kh\u00e9ops",
+                    "city": "Le Caire",
+                    "country": "\u00c9gypte",
+                    "wiki": "http:\/\/fr.wikipedia.org\/wiki\/Pyramide_de_Kh\u00e9ops",
+                    "coordonnees": "29.9792391,31.1320132"
+                }
+            }
+        }
+    ]
+}

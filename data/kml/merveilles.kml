@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+   <Placemark>
+       <name>Acropole d'Athènes</name>
+       <description>coordonnees : 37.9715365,23.7235605<br/>
+</description>
+       <Point>
+           <coordinates>23.7235605,37.9715365</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Alhambra de Grenade</name>
+       <description>coordonnees : 37.1760826,-3.59033<br/>
+</description>
+       <Point>
+           <coordinates>-3.59033,37.1760826</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Angkor</name>
+       <description>coordonnees : 48.4310239,1.6872197<br/>
+</description>
+       <Point>
+           <coordinates>1.6872197,48.4310239</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Chichén Itzá</name>
+       <description>coordonnees : 20.6842899,-88.5699713<br/>
+</description>
+       <Point>
+           <coordinates>-88.5699713,20.6842899</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Christ Rédempteur</name>
+       <description>coordonnees : -22.951911,-43.2126759<br/>
+</description>
+       <Point>
+           <coordinates>-43.2126759,-22.951911</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Colisée</name>
+       <description>coordonnees : 41.8902142,12.4900422<br/>
+</description>
+       <Point>
+           <coordinates>12.4900422,41.8902142</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Maoïs</name>
+       <description>coordonnees : -27.1437367,-109.3325796<br/>
+</description>
+       <Point>
+           <coordinates>-109.3325796,-27.1437367</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Tour Eiffel</name>
+       <description>coordonnees : 48.8583736,2.2922926<br/>
+</description>
+       <Point>
+           <coordinates>2.2922926,48.8583736</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Grande Muraille</name>
+       <description>coordonnees : 40.4319118,116.5681862<br/>
+</description>
+       <Point>
+           <coordinates>116.5681862,40.4319118</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Sainte-Sophie</name>
+       <description>coordonnees : 41.0078496,28.9788895<br/>
+</description>
+       <Point>
+           <coordinates>28.9788895,41.0078496</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Kiyomizu-dera</name>
+       <description>coordonnees : 34.9948605,135.7828576<br/>
+</description>
+       <Point>
+           <coordinates>135.7828576,34.9948605</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Kremlin</name>
+       <description>coordonnees : 55.7520263,37.6153107<br/>
+</description>
+       <Point>
+           <coordinates>37.6153107,55.7520263</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Machu Picchu</name>
+       <description>coordonnees : -13.163136,-72.5471516<br/>
+</description>
+       <Point>
+           <coordinates>-72.5471516,-13.163136</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Château de Neuschwanstein</name>
+       <description>coordonnees : 47.5575776,10.7476117<br/>
+</description>
+       <Point>
+           <coordinates>10.7476117,47.5575776</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Pétra</name>
+       <description>coordonnees : 30.328459,35.4421735<br/>
+</description>
+       <Point>
+           <coordinates>35.4421735,30.328459</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Statue de la Liberté</name>
+       <description>coordonnees : 40.6892534,-74.0466891<br/>
+</description>
+       <Point>
+           <coordinates>-74.0466891,40.6892534</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Stonehenge</name>
+       <description>coordonnees : 51.1788853,-1.8284037<br/>
+</description>
+       <Point>
+           <coordinates>-1.8284037,51.1788853</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Opéra de Sydney</name>
+       <description>coordonnees : -33.8567799,151.213108<br/>
+</description>
+       <Point>
+           <coordinates>151.213108,-33.8567799</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Taj Mahal</name>
+       <description>coordonnees : 27.1750199,78.0399665<br/>
+</description>
+       <Point>
+           <coordinates>78.0399665,27.1750199</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Tombouctou</name>
+       <description>coordonnees : 16.7714239,-3.025489<br/>
+</description>
+       <Point>
+           <coordinates>-3.025489,16.7714239</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>Pyramide de Khéops</name>
+       <description>coordonnees : 29.9792391,31.1320132<br/>
+</description>
+       <Point>
+           <coordinates>31.1320132,29.9792391</coordinates>
+       </Point>
+   </Placemark>
+</Document>
+</kml>
