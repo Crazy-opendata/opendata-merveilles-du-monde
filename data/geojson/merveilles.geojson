@@ -10,7 +10,7 @@
                     "37.9715365"
                 ],
                 "properties": {
-                    "id": "1",
+                    "id": 1,
                     "title": "Acropole d'Ath\u00e8nes",
                     "city": "Ath\u00e8nes",
                     "country": "Gr\u00e8ce",
@@ -28,7 +28,7 @@
                     "37.1760826"
                 ],
                 "properties": {
-                    "id": "2",
+                    "id": 2,
                     "title": "Alhambra de Grenade",
                     "city": "Grenade",
                     "country": "Espagne",
@@ -46,7 +46,7 @@
                     "48.4310239"
                 ],
                 "properties": {
-                    "id": "3",
+                    "id": 3,
                     "title": "Angkor",
                     "city": "Angkor",
                     "country": "Cambodge",
@@ -64,7 +64,7 @@
                     "20.6842899"
                 ],
                 "properties": {
-                    "id": "4",
+                    "id": 4,
                     "title": "Chich\u00e9n Itz\u00e1",
                     "city": "Chich\u00e9n Itz\u00e1",
                     "country": "Mexique",
@@ -82,7 +82,7 @@
                     "-22.951911"
                 ],
                 "properties": {
-                    "id": "5",
+                    "id": 5,
                     "title": "Christ R\u00e9dempteur",
                     "city": "Rio de Janeiro",
                     "country": "Br\u00e9sil",
@@ -100,7 +100,7 @@
                     "41.8902142"
                 ],
                 "properties": {
-                    "id": "6",
+                    "id": 6,
                     "title": "Colis\u00e9e",
                     "city": "Rome",
                     "country": "Italie",
@@ -118,7 +118,7 @@
                     "-27.1437367"
                 ],
                 "properties": {
-                    "id": "7",
+                    "id": 7,
                     "title": "Mao\u00efs",
                     "city": "\u00cele de P\u00e2ques",
                     "country": "Chili",
@@ -136,7 +136,7 @@
                     "48.8583736"
                 ],
                 "properties": {
-                    "id": "8",
+                    "id": 8,
                     "title": "Tour Eiffel",
                     "city": "Paris",
                     "country": "France",
@@ -154,7 +154,7 @@
                     "40.4319118"
                 ],
                 "properties": {
-                    "id": "9",
+                    "id": 9,
                     "title": "Grande Muraille",
                     "city": "Chine",
                     "country": "Chine",
@@ -172,7 +172,7 @@
                     "41.0078496"
                 ],
                 "properties": {
-                    "id": "10",
+                    "id": 10,
                     "title": "Sainte-Sophie",
                     "city": "Istanbul",
                     "country": "Turquie",
@@ -190,7 +190,7 @@
                     "34.9948605"
                 ],
                 "properties": {
-                    "id": "11",
+                    "id": 11,
                     "title": "Kiyomizu-dera",
                     "city": "Kyoto",
                     "country": "Russie",
@@ -208,7 +208,7 @@
                     "55.7520263"
                 ],
                 "properties": {
-                    "id": "12",
+                    "id": 12,
                     "title": "Kremlin",
                     "city": "Moscou",
                     "country": "Russie",
@@ -226,7 +226,7 @@
                     "-13.163136"
                 ],
                 "properties": {
-                    "id": "13",
+                    "id": 13,
                     "title": "Machu Picchu",
                     "city": "P\u00e9rou",
                     "country": "P\u00e9rou",
@@ -244,7 +244,7 @@
                     "47.5575776"
                 ],
                 "properties": {
-                    "id": "14",
+                    "id": 14,
                     "title": "Ch\u00e2teau de Neuschwanstein",
                     "city": "Bavi\u00e8re",
                     "country": "Allemagne",
@@ -262,7 +262,7 @@
                     "30.328459"
                 ],
                 "properties": {
-                    "id": "15",
+                    "id": 15,
                     "title": "P\u00e9tra",
                     "city": "P\u00e9tra",
                     "country": "Jordanie",
@@ -280,7 +280,7 @@
                     "40.6892534"
                 ],
                 "properties": {
-                    "id": "16",
+                    "id": 16,
                     "title": "Statue de la Libert\u00e9",
                     "city": "New-York",
                     "country": "\u00c9tats-Unis",
@@ -298,7 +298,7 @@
                     "51.1788853"
                 ],
                 "properties": {
-                    "id": "17",
+                    "id": 17,
                     "title": "Stonehenge",
                     "city": "Salisbury",
                     "country": "Royaume-Uni",
@@ -316,7 +316,7 @@
                     "-33.8567799"
                 ],
                 "properties": {
-                    "id": "18",
+                    "id": 18,
                     "title": "Op\u00e9ra de Sydney",
                     "city": "Sydney",
                     "country": "Australie",
@@ -334,7 +334,7 @@
                     "27.1750199"
                 ],
                 "properties": {
-                    "id": "19",
+                    "id": 19,
                     "title": "Taj Mahal",
                     "city": "Agra",
                     "country": "Inde",
@@ -352,7 +352,7 @@
                     "16.7714239"
                 ],
                 "properties": {
-                    "id": "20",
+                    "id": 20,
                     "title": "Tombouctou",
                     "city": "Tombouctou",
                     "country": "Mali",
@@ -370,7 +370,7 @@
                     "29.9792391"
                 ],
                 "properties": {
-                    "id": "21",
+                    "id": 21,
                     "title": "Pyramide de Kh\u00e9ops",
                     "city": "Le Caire",
                     "country": "\u00c9gypte",

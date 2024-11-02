@@ -1,13 +1,13 @@
--- MySQL dump 10.13  Distrib 5.5.52, for debian-linux-gnu (x86_64)
+-- MySQL dump 10.18  Distrib 10.3.27-MariaDB, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: data
 -- ------------------------------------------------------
--- Server version	5.5.52-0+deb8u1-log
+-- Server version	10.3.27-MariaDB-0+deb10u1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
+/*!40101 SET NAMES utf8mb4 */;
 /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
 /*!40103 SET TIME_ZONE='+00:00' */;
 /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS `merveilles` (
   PRIMARY KEY (`id`),
   KEY `title` (`title`),
   KEY `coordonnees` (`coordonnees`)
-) ENGINE=InnoDB AUTO_INCREMENT=381 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=381 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
